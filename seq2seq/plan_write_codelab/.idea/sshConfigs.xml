@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="103.235.253.244" id="80744e62-86d5-49a8-b2bb-aeb451829149" port="60022" customName="pnw_244" nameFormat="CUSTOM">
+        <option name="customName" value="pnw_244" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="111.207.202.17" id="a32a1156-5531-453c-b83e-2f752fe7c6c3" port="60022" customName="pnw_143" nameFormat="CUSTOM">
+        <option name="customName" value="pnw_143" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
