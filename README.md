@@ -16,4 +16,5 @@ Our project consisted of two main goals:
 
 ## References
 [1] Rishishian. 2019. plan_write. Last accessed Dec 1st, 2021.
+[2] RapLyrics-Scraper https://github.com/fpaupier/RapLyrics-Scraper
 
