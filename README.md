@@ -15,5 +15,5 @@ Our project consisted of two main goals:
 
 
 ## References
-[1] Rishishian. 2019. Plan Write. Last accessed Dec 17th, 2021.
+[1] Rishishian. 2019. plan_write. Last accessed Dec 1st, 2021.
 
